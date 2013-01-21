@@ -1,0 +1,5 @@
+NAME="sugar-FotoToon"
+VERSION=13
+RELEASE=2
+SUGAR_TYPE="Honey"
+inherit sugar
